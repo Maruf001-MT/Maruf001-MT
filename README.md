@@ -6,19 +6,14 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf001-mt&label=Profile%20views&color=0e75b6&style=flat" alt="maruf001-mt" /> </p>-->
 
 
-- 🔭 I’m currently working on [MeetMonk](https://github.com/Maruf001-MT/meetmonk-healthcare-landing-page)
 
 - 🌱 I’m currently learning **Python, PHP**
 
-- 👨‍💻 All of my projects are available at [http://primeit.elementfx.com/portfolio](http://primeit.elementfx.com/portfolio)
-
-- 📝 I regularly write articles on [http://primeit.elementfx.com/blog](http://primeit.elementfx.com/blog)
+- 👨‍💻 All of my projects are available at [https://maruf.prozukty.com/portfolio/](https://maruf.prozukty.com/portfolio/)
 
 - 💬 Ask me about **Website Design, Graphics Design**
 
 - 📫 How to reach me **jisanmaruf562@gmail.com**
-
-- 📄 Know about my experiences [http://primeit.elementfx.com/](http://primeit.elementfx.com/)
 
 - ⚡ Fun fact **I like Cartoons, Animations, Jokes**
 
